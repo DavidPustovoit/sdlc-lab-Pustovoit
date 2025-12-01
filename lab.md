@@ -14,6 +14,7 @@
 5. Як користувач, я хочу залишати текстові нотатки до переглянутих фільмів.
 
 ## 3. Дизайн (Прототип)
+<img width="1920" height="1032" alt="image" src="https://github.com/user-attachments/assets/5df7c943-a8c6-4e24-82f0-88bcfd5bfeaa" />
 
 
 ## 4. Реалізація (Псевдокод)
